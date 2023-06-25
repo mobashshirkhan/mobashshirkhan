@@ -6,5 +6,5 @@ Currently Doing Hands On Practice on Data Structures and Algorithms & Along with
 
 - 🌱 I’m currently learning Data Structure & Algorithms
 - 💬 Ask me about DSA , C++ , HTML , CSS , JavaScript , React.JS
-- 📫 You can reach me by My-Gmail
+- 📫 You can reach me here mr.khan6912@gmail.com
 
